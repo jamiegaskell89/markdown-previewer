@@ -1,2 +1,1 @@
-# markdown-previewer
-Markdown Previewer App
+This is my second project for the front end development libraries certification on Free Code Camp. This involved building a web page using React which allows the user to input HTML code which is then converted into text.
